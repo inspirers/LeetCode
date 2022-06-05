@@ -17,4 +17,5 @@ fn main() {
             println!("{}", root[vec.len() - n - 1]);
         }
     }
+    vec
 }
